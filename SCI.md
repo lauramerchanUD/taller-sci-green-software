@@ -104,16 +104,4 @@ R = len(duplicados)    # duplicados encontrados
 SCI = ((E * I) + M) / R
 ```
 
----
 
-## 📊 Compara con tus compañeros
-
-| | Yo | C1 | C2 | C3 |
-|---|---|---|---|---|
-| Equipo | | | | |
-| M (kg CO₂/s) | | | | |
-| SCI Solución A | | | | |
-| SCI Solución B | | | | |
-
-> 💡 ¿Por qué el MacBook Pro contamina menos en fabricación siendo más potente?  
-> Usa 100% aluminio reciclado y 45% energía renovable en manufactura.
